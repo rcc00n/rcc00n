@@ -81,14 +81,6 @@ Cloud-native background processing and scalable task execution.
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcc00n&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-</p>
-
----
-
 ## Contact
 
 <p>
