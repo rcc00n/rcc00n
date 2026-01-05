@@ -2,125 +2,105 @@
 <h3 align="center">Backend Developer · Software Engineer · Startup Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rcc00n&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=rcc00n&style=flat&color=blue" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Products-SaaS%20%7C%20Marketplaces-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Startup%20Builder-black?style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About me
+## About
 
-I build **production-grade backend systems**, SaaS products, and marketplaces  
-with a strong focus on **architecture, scalability, and real business logic**.
-
-- 🧠 Backend-first mindset  
-- 🏗 Building startup products from idea to production  
-- ⚙️ APIs, payments, bookings, admin systems  
-- ☁️ Cloud-native & scalable infrastructure  
+I design and build **production-grade backend systems** for startups and digital products.  
+My focus is on **architecture, scalability, and business-critical logic**, not demos or throwaway MVPs.
 
 ---
 
-## 🛠 Tech Stack
+## Core Expertise
+
+- Backend architecture and API design  
+- Payments, subscriptions, and financial workflows  
+- Marketplaces, SaaS, and booking platforms  
+- Admin panels and internal tooling  
+- Cloud-ready, scalable systems  
+
+---
+
+## Tech Stack
 
 ### Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36"/>
 </p>
 
-### Frontend
+### Frontend (when needed)
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/>
 </p>
 
 ### Databases & Messaging
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36"/>
 </p>
 
-### Infrastructure & Cloud
+### Infrastructure
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## Selected Projects
 
-### 🥩 MeatDirect
-Multi-vendor e-commerce platform with admin panel, order management, and payment flows.  
-Built for real-world logistics and scaling.
+**MeatDirect**  
+Multi-vendor e-commerce platform with admin panel, order management, and payment flows.
 
-**Stack:** Django · DRF · TypeScript · PostgreSQL · Stripe
+**Booking Platform**  
+Scheduling and booking system with payments and operator dashboards.
 
----
-
-### 📅 Booking Platform
-Scheduling and booking system with payments, operator dashboards, and complex business rules.
-
-**Stack:** Django · DRF · PostgreSQL · Payments
-
----
-
-### 📄 GreenContract
+**GreenContract**  
 Backend system for structured legal and contract workflows.
 
-**Stack:** Python · Django · PostgreSQL
-
----
-
-### 🤖 BetBot (AWS Fargate)
+**BetBot (AWS Fargate)**  
 Cloud-native background processing and scalable task execution.
 
-**Stack:** Python · Docker · AWS · Fargate
-
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcc00n&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcc00n&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rcc00n&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 </p>
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rcc00n&theme=darkhub&no-frame=true&row=1"/>
-</p>
-
----
-
-## 💬 Ask me about
-- Backend architecture (Django / DRF)
-- SaaS & marketplace development
-- Payments, bookings, admin systems
-- Turning ideas into working startup products
-
----
-
-## 📫 Connect with me
+## Contact
 
 <p>
   <a href="mailto:vadrud2016@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vadrud2016%40gmail.com-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-vadrud2016%40gmail.com-red?style=flat-square"/>
   </a>
   <a href="https://t.me/Rac_c00n">
-    <img src="https://img.shields.io/badge/Telegram-@Rac_c00n-blue?style=for-the-badge&logo=telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@Rac_c00n-blue?style=flat-square&logo=telegram"/>
   </a>
 </p>
 
 ---
 
-⭐ If you’re building something serious and backend-heavy — let’s connect.
+If you’re building something serious and backend-heavy —  
+we’ll probably enjoy working together.
