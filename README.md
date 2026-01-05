@@ -69,14 +69,6 @@ Infrastructure-oriented project exploring scalable background processing and clo
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcc00n&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcc00n&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌱 Currently
 - Building and iterating on startup products
 - Deepening expertise in backend architecture and cloud infrastructure
