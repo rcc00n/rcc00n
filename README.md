@@ -24,6 +24,17 @@ Based in **Edmonton** · **Raccoon Software**
 QUANTIX submits no real exchange orders. Observed spreads and simulated outcomes
 are research results, not evidence of real-world profitability.
 
+## Inside the engineering
+
+Three short cases connect the source, design decisions and known limits:
+
+- **[QUANTIX](https://github.com/rcc00n/QUANTIX/blob/main/docs/ENGINEERING_CASE_STUDY.md):** exact accounting, independent execution legs and causal market evidence. [Synthetic workspace demo](https://github.com/rcc00n/QUANTIX/blob/main/docs/DEMO.md).
+- **[BGM CRM](https://github.com/rcc00n/bgm_crm/blob/master/docs/ENGINEERING_CASE_STUDY.md):** scheduling validation and catalogue workflows on PostgreSQL. [Synthetic staff demo](https://github.com/rcc00n/bgm_crm/blob/master/docs/DEMO.md).
+- **[GreenContract](https://github.com/rcc00n/GreenContract/blob/main/docs/ENGINEERING_CASE_STUDY.md):** rental pricing and consistent document generation. [Synthetic rental demo](https://github.com/rcc00n/GreenContract/blob/main/docs/DEMO.md).
+
+[Download the one-page engineering portfolio (PDF)](assets/engineering-portfolio.pdf).
+All demonstrations use labelled synthetic records; verification scope and limitations are documented in each project.
+
 ## Engineering focus
 
 - **Domain logic:** explicit contracts, permissions and state transitions.
