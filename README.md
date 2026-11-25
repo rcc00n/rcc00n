@@ -7,7 +7,8 @@
 I build backend systems and the interfaces around them: operational software,
 APIs, booking and commerce, and data-intensive research tools.
 
-Based in **Edmonton** · **RACCN Code**  
+Based in **Edmonton** · **RACCN Code**
+
 [Website](https://raccncode.com/) · [Selected work / PDF](assets/engineering-portfolio.pdf) · [Email](mailto:vadrud2016@gmail.com) · [Telegram](https://t.me/Rac_c00n)
 
 ## Selected engineering work
